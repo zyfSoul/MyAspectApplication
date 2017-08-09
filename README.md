@@ -200,5 +200,5 @@ javaCompile.doLast {
 
 ## **AspectJ的实现AOP的原理简析**
 
-篇幅问题请移步地址\[aspectjde-shi-xian-aop-de-yuan-li-jian-xi.md\]
+篇幅问题请移步地址[AspectJ的实现AOP的原理简析](/aspectjde-shi-xian-aop-de-yuan-li-jian-xi.md)
 
