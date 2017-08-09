@@ -200,7 +200,5 @@ javaCompile.doLast {
 
 ## **AspectJ的实现AOP的原理简析**
 
-在简析AspectJ是如何实现AOP之前需要对Android app的打包流程进行简单的梳理。
-
-
+篇幅问题请移步地址\[aspectjde-shi-xian-aop-de-yuan-li-jian-xi.md\]
 
